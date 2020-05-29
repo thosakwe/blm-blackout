@@ -39,7 +39,7 @@ is minimal.
 If this problem could be solved simply by making a webpage, then it would been solved
 ages ago. In addition to changing your homepage,
 
-The white section on the page contains links and calls to action that you can engage
+The gray section on the page contains links and calls to action that you can engage
 with from the comfort of your own home.
 
 Protesting may be difficult during a pandemic, and can be scary, so if you decide to do it, make sure you're safe. Make sure you are properly prepared to avoid harm:
