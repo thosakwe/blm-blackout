@@ -4,7 +4,7 @@ to the `index.html` here, you can spread awareness of the police brutality
 problem in the United States, and provide your visitors with links to resources,
 and ways they can help activist organizations.
 
-[See it live on GitHub Pages](https://thosakwe.github.io/black-lives-matter).
+[See it live on GitHub Pages](https://thosakwe.github.io/blm-blackout).
 
 ![Screenshot](screenshot.png)
 
@@ -17,7 +17,7 @@ Alternatively, you can set up a redirect with `nginx`:
 ```
 server {
   location / {
-    return 302 https://thosakwe.github.io/black-lives-matter;
+    return 302 https://thosakwe.github.io/blm-blackout;
   }
 }
 ```
